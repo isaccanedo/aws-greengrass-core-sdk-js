@@ -24,7 +24,7 @@ O ambiente em que o Greengrass está sendo executado precisa ser capaz de execut
 *   Compacte o conteúdo da pasta HelloWorld para que o index.js fique no topo da estrutura do arquivo zip.
 *   Acesse o console AWS Lambda.
 *   Criar uma nova função.
-*   Choose the Runtime as `Node.js 12.x`
+*   Escolha o tempo de execução como `Node.js 12.x`
 *   Upload the zip file in _Lambda function code_ section.
 *   Handler is _index.handler_
 *   Choose any role as the role is not used within Greengrass.
