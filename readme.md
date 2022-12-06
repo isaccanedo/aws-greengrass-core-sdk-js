@@ -21,7 +21,7 @@ O ambiente em que o Greengrass está sendo executado precisa ser capaz de execut
 *   Crie uma pasta `node_modules` na pasta `HelloWorld`.
 *   Descompacte aws-greengrass-core-sdk-js.zip na pasta. Ele deve criar uma pasta HelloWorld/node_modules/aws-greengrass-core-sdk
 *   Use o NPM para instalar a dependência necessária, cbor. `npm i cbor@5.0.1`.
-*   Zip up the content of HelloWorld folder so that the index.js is on the top of the zip file structure.
+*   Compacte o conteúdo da pasta HelloWorld para que o index.js fique no topo da estrutura do arquivo zip.
 *   Go to AWS Lambda Console.
 *   Create a new function.
 *   Choose the Runtime as `Node.js 12.x`
