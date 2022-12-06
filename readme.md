@@ -13,7 +13,7 @@ O ambiente em que o Greengrass está sendo executado precisa ser capaz de execut
 *   Instale o NodeJS 12 para sua plataforma. Você pode baixar o NodeJS mais recente em [https://nodejs.org/en/download/](https://nodejs.org/en/download/).
 *   Ao descompactar o pacote baixado do site NodeJS, você encontrará o arquivo `node` no diretório `bin`.
 *   Copie o arquivo para _**/usr/bin**_ ou _**/usr/local/bin**_ folder.
-*   Rename the file to _**nodejs12.x**_
+*   Renomeie o arquivo para _**nodejs12.x**_
 
 ## Getting Started - Hello World
 
