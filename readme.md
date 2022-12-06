@@ -8,7 +8,7 @@ Este documento fornece instruções para preparar seu ambiente Greengrass Core p
 
 ## Preparando seu Greengrass para executar funções NodeJS Lambda
 
-The environment where Greengrass is running on needs to be able to run NodeJS 12.x applications.
+O ambiente em que o Greengrass está sendo executado precisa ser capaz de executar aplicativos NodeJS 12.x.
 
 *   Install NodeJS 12 for your platform. You can download the newest NodeJS from [https://nodejs.org/en/download/](https://nodejs.org/en/download/).
 *   When you untar the package downloaded from NodeJS website, you will find `node` file under `bin` directory.
