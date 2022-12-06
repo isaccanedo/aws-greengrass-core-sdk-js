@@ -2,7 +2,7 @@
 
 O **AWS Greengrass Core SDK para JavaScript** permite que os desenvolvedores escrevam funções JavaScript do Lambda que serão executadas no Greengrass.
 
-## Overview
+## Visão geral
 
 This document provides instructions for preparing your Greengrass Core environment to run Lambda functions written in JavaScript. It also includes examples on how to develop a Lambda function in JavaScript as well as packaging and running an example Hello World file in JavaScript for your Greengrass core.
 
