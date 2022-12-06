@@ -1,4 +1,4 @@
-## AWS Greengrass Core SDK for JavaScript
+## AWS Greengrass Core SDK para JavaScript
 
 The **AWS Greengrass Core SDK for JavaScript** allows developers to write JavaScript Lambda functions which will run within Greengrass.
 
