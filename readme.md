@@ -10,7 +10,7 @@ Este documento fornece instruções para preparar seu ambiente Greengrass Core p
 
 O ambiente em que o Greengrass está sendo executado precisa ser capaz de executar aplicativos NodeJS 12.x.
 
-*   Install NodeJS 12 for your platform. You can download the newest NodeJS from [https://nodejs.org/en/download/](https://nodejs.org/en/download/).
+*   Instale o NodeJS 12 para sua plataforma. Você pode baixar o NodeJS mais recente em [https://nodejs.org/en/download/](https://nodejs.org/en/download/).
 *   When you untar the package downloaded from NodeJS website, you will find `node` file under `bin` directory.
 *   Copy the file to _**/usr/bin**_ or _**/usr/local/bin**_ folder.
 *   Rename the file to _**nodejs12.x**_
