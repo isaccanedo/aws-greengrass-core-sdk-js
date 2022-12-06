@@ -23,7 +23,7 @@ O ambiente em que o Greengrass está sendo executado precisa ser capaz de execut
 *   Use o NPM para instalar a dependência necessária, cbor. `npm i cbor@5.0.1`.
 *   Compacte o conteúdo da pasta HelloWorld para que o index.js fique no topo da estrutura do arquivo zip.
 *   Acesse o console AWS Lambda.
-*   Create a new function.
+*   Criar uma nova função.
 *   Choose the Runtime as `Node.js 12.x`
 *   Upload the zip file in _Lambda function code_ section.
 *   Handler is _index.handler_
