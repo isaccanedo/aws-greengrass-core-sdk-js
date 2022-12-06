@@ -15,7 +15,7 @@ O ambiente em que o Greengrass está sendo executado precisa ser capaz de execut
 *   Copie o arquivo para _**/usr/bin**_ ou _**/usr/local/bin**_ folder.
 *   Renomeie o arquivo para _**nodejs12.x**_
 
-## Getting Started - Hello World
+## Primeiros passos - Olá, mundo
 
 *   Copy `greengrassExamples/HelloWorld` folder to your workspace.
 *   Create a folder `node_modules` under `HelloWorld` folder.
