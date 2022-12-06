@@ -18,7 +18,7 @@ O ambiente em que o Greengrass está sendo executado precisa ser capaz de execut
 ## Primeiros passos - Olá, mundo
 
 *   Copie a pasta `greengrassExamples/HelloWorld` para o seu espaço de trabalho.
-*   Create a folder `node_modules` under `HelloWorld` folder.
+*   Crie uma pasta `node_modules` na pasta `HelloWorld`.
 *   Unzip aws-greengrass-core-sdk-js.zip into the folder. It should create a folder HelloWorld/node_modules/aws-greengrass-core-sdk
 *   Use NPM to install the required dependency, cbor. `npm i cbor@5.0.1`.
 *   Zip up the content of HelloWorld folder so that the index.js is on the top of the zip file structure.
