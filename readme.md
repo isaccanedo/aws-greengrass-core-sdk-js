@@ -25,7 +25,7 @@ O ambiente em que o Greengrass está sendo executado precisa ser capaz de execut
 *   Acesse o console AWS Lambda.
 *   Criar uma nova função.
 *   Escolha o tempo de execução como `Node.js 12.x`
-*   Upload the zip file in _Lambda function code_ section.
+*   Carregue o arquivo zip na seção _Lambda function code_.
 *   Handler is _index.handler_
 *   Choose any role as the role is not used within Greengrass.
 *   After creating the function, publish the Lambda.
