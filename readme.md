@@ -28,7 +28,7 @@ O ambiente em que o Greengrass está sendo executado precisa ser capaz de execut
 *   Carregue o arquivo zip na seção _Lambda function code_.
 *   O manipulador é _index.handler_
 *   Escolha qualquer função, pois a função não é usada no Greengrass.
-*   After creating the function, publish the Lambda.
+*   Depois de criar a função, publique o Lambda.
 *   Create an Alias and point to the Published version (not $LATEST).
 *   Go to your Greengrass Group and add the Lambda under Lambdas section.
 *   Click on the Lambda and change the _Lambda lifecycle_ to _Make this function long-lived and keep it running indefinitely._
