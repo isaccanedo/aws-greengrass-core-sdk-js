@@ -42,7 +42,7 @@ O ambiente em que o Greengrass está sendo executado precisa ser capaz de execut
 
 Descompacte o SDK na pasta node_modules da sua função. Isso deve criar uma pasta aws-greengrass-core-sdk que inclui o SDK.
 
-## Logging in NodeJS Lambdas
+## Fazendo login no NodeJS Lambdas
 
 Your _console.log_ operation will be logged as INFO. A _console.error_ operation will be logged as ERROR. Currently, our NodeJS SDK only allows you to log at INFO or ERROR level only.
 
