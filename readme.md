@@ -40,7 +40,7 @@ O ambiente em que o Greengrass está sendo executado precisa ser capaz de execut
 
 ## Incluindo aws-greengrass-core-sdk com sua função
 
-Unzip the SDK into your node_modules folder of your function. This should create a aws-greengrass-core-sdk folder which includes the SDK.
+Descompacte o SDK na pasta node_modules da sua função. Isso deve criar uma pasta aws-greengrass-core-sdk que inclui o SDK.
 
 ## Logging in NodeJS Lambdas
 
