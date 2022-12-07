@@ -26,7 +26,7 @@ O ambiente em que o Greengrass está sendo executado precisa ser capaz de execut
 *   Criar uma nova função.
 *   Escolha o tempo de execução como `Node.js 12.x`
 *   Carregue o arquivo zip na seção _Lambda function code_.
-*   Handler is _index.handler_
+*   O manipulador é _index.handler_
 *   Choose any role as the role is not used within Greengrass.
 *   After creating the function, publish the Lambda.
 *   Create an Alias and point to the Published version (not $LATEST).
