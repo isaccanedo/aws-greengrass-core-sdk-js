@@ -44,7 +44,7 @@ Descompacte o SDK na pasta node_modules da sua função. Isso deve criar uma pas
 
 ## Fazendo login no NodeJS Lambdas
 
-Sua operação _console.log_ será registrada como INFO. Uma operação _console.error_ será registrada como ERROR. Currently, our NodeJS SDK only allows you to log at INFO or ERROR level only.
+Sua operação _console.log_ será registrada como INFO. Uma operação _console.error_ será registrada como ERROR. Atualmente, nosso SDK NodeJS permite que você faça login apenas no nível INFO ou ERROR.
 
 ## Supported Datatypes
 
