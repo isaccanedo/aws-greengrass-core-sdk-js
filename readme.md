@@ -48,7 +48,7 @@ Sua operação _console.log_ será registrada como INFO. Uma operação _console
 
 ## Tipos de dados suportados
 
-From GGC version 1.5, you can send both JSON and binary data as a payload when you invoking other Lambdas or publishing a message using IotData service. In order to make your lambda be able to handle binary payload, you need to configure the lambda in Greengrass console to mark it using binary input payload so that GGC can know how to deal with the data.
+A partir da versão 1.5 do GGC, você pode enviar dados JSON e binários como carga útil ao invocar outros Lambdas ou publicar uma mensagem usando o serviço IoTData. In order to make your lambda be able to handle binary payload, you need to configure the lambda in Greengrass console to mark it using binary input payload so that GGC can know how to deal with the data.
 
 ## Supported Context
 
