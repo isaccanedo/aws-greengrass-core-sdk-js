@@ -46,7 +46,7 @@ Descompacte o SDK na pasta node_modules da sua função. Isso deve criar uma pas
 
 Sua operação _console.log_ será registrada como INFO. Uma operação _console.error_ será registrada como ERROR. Atualmente, nosso SDK NodeJS permite que você faça login apenas no nível INFO ou ERROR.
 
-## Supported Datatypes
+## Tipos de dados suportados
 
 From GGC version 1.5, you can send both JSON and binary data as a payload when you invoking other Lambdas or publishing a message using IotData service. In order to make your lambda be able to handle binary payload, you need to configure the lambda in Greengrass console to mark it using binary input payload so that GGC can know how to deal with the data.
 
