@@ -31,7 +31,7 @@ O ambiente em que o Greengrass está sendo executado precisa ser capaz de execut
 *   Depois de criar a função, publique o Lambda.
 *   Crie um Alias e aponte para a versão Publicada (não $LATEST).
 *   Vá para o seu Grupo Greengrass e adicione o Lambda na seção Lambdas.
-*   Click on the Lambda and change the _Lambda lifecycle_ to _Make this function long-lived and keep it running indefinitely._
+*   Clique no Lambda e altere o _Lambda lifecycle_ para _Tornar esta função de longa duração e mantê-la em execução indefinidamente._
 *   Add a Subscription with the following configuration:
     *   Source: Lambda which you just created and added to the group
     *   Target: IoT Cloud
