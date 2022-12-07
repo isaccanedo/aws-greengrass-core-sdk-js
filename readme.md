@@ -36,7 +36,7 @@ O ambiente em que o Greengrass está sendo executado precisa ser capaz de execut
     *   Source: Lambda que você acabou de criar e adicionar ao grupo
     *   Target: nuvem IoT
     *   Topic: hello/world
-*   Deploy. A message from your Lambda should be published to the topic _hello/world_ in the cloud every 5 seconds. You can check this by going to AWS IoT's _Test_ page and subscribing to topic _hello/world_.
+*   Implantar. Uma mensagem do seu Lambda deve ser publicada no tópico _hello/world_ na nuvem a cada 5 segundos. Você pode verificar isso acessando a página _Test_ do AWS IoT e inscrevendo-se no tópico _hello/world_.
 
 ## Including aws-greengrass-core-sdk with your function
 
