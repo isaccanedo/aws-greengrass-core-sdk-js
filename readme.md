@@ -34,7 +34,7 @@ O ambiente em que o Greengrass está sendo executado precisa ser capaz de execut
 *   Clique no Lambda e altere o _Lambda lifecycle_ para _Tornar esta função de longa duração e mantê-la em execução indefinidamente._
 *   Adicione uma assinatura com a seguinte configuração:
     *   Source: Lambda que você acabou de criar e adicionar ao grupo
-    *   Target: IoT Cloud
+    *   Target: nuvem IoT
     *   Topic: hello/world
 *   Deploy. A message from your Lambda should be published to the topic _hello/world_ in the cloud every 5 seconds. You can check this by going to AWS IoT's _Test_ page and subscribing to topic _hello/world_.
 
