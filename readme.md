@@ -30,7 +30,7 @@ O ambiente em que o Greengrass está sendo executado precisa ser capaz de execut
 *   Escolha qualquer função, pois a função não é usada no Greengrass.
 *   Depois de criar a função, publique o Lambda.
 *   Crie um Alias e aponte para a versão Publicada (não $LATEST).
-*   Go to your Greengrass Group and add the Lambda under Lambdas section.
+*   Vá para o seu Grupo Greengrass e adicione o Lambda na seção Lambdas.
 *   Click on the Lambda and change the _Lambda lifecycle_ to _Make this function long-lived and keep it running indefinitely._
 *   Add a Subscription with the following configuration:
     *   Source: Lambda which you just created and added to the group
