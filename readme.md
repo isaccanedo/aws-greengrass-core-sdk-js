@@ -38,7 +38,7 @@ O ambiente em que o Greengrass está sendo executado precisa ser capaz de execut
     *   Topic: hello/world
 *   Implantar. Uma mensagem do seu Lambda deve ser publicada no tópico _hello/world_ na nuvem a cada 5 segundos. Você pode verificar isso acessando a página _Test_ do AWS IoT e inscrevendo-se no tópico _hello/world_.
 
-## Including aws-greengrass-core-sdk with your function
+## Incluindo aws-greengrass-core-sdk com sua função
 
 Unzip the SDK into your node_modules folder of your function. This should create a aws-greengrass-core-sdk folder which includes the SDK.
 
