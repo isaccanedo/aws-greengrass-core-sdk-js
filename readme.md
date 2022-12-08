@@ -52,7 +52,7 @@ A partir da versão 1.5 do GGC, você pode enviar dados JSON e binários como ca
 
 ## Contexto suportado
 
-In Greengrass, you can send a context object in a JSON format to be passed to another Lambda that is being invoked. The context format looks like this: `{ custom: { customData: 'customData', }, }`
+No Greengrass, você pode enviar um objeto de contexto em formato JSON para ser passado para outro Lambda que está sendo invocado. O formato de contexto se parece com isso: `{ custom: { customData: 'customData', }, }`
 
 <div class="section" id="compatibility">
 
