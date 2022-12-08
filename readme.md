@@ -215,7 +215,7 @@ Lambda only accepted payload in JSON format. With this update, Invoking or publi
 
 ## 1.0.1 Updates[¶](#1.0.1updates "Permalink to this headline")
 
-Shadow operations were not receiving responses from the local shadow properly. This has been fixed.
+As operações de sombra não estavam recebendo respostas da sombra local corretamente. Isso foi corrigido.
 
 Lambda Invoke function's InvocationType's default value was Event. This has been changed to RequestResponse.
 
