@@ -123,8 +123,8 @@ No Greengrass, você pode enviar um objeto de contexto em formato JSON para ser 
 
 ## 1.7.0 Updates[¶](#1.7.0updates "Permalink to this headline")
 
-Stream manager supports automatic data export to AWS S3 and AWS IoT SiteWise, provides new API method to update existing streams, and pause or resume exporting.
-
+O gerenciador de fluxo oferece suporte à exportação automática de dados para AWS S3 e AWS IoT SiteWise, fornece novo método de API para atualizar fluxos existentes e pausar ou retomar a exportação.
+   
 </div>
 
 <div class="Section" id="1.6.0updates">
