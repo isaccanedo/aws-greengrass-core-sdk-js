@@ -137,7 +137,7 @@ Para maiores informações.
 ### Compatibilidade
 
 StreamManager adicionou uma nova dependência a este pacote, `cbor==5.0.1`. 
-Please make sure to include it in your lambda or else the SDK will not function.
+Certifique-se de incluí-lo em seu lambda ou o SDK não funcionará.
 In addition to the new dependency, the 1.6.0 version of this SDK now requires NodeJS version 12
 or greater since NodeJS 6 and 8 are end-of-life. See [https://docs.aws.amazon.com/lambda/latest/dg/runtime-support-policy.html](https://docs.aws.amazon.com/lambda/latest/dg/runtime-support-policy.html).
 
