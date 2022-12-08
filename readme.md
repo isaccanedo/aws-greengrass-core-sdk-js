@@ -183,7 +183,7 @@ Added support for Node.js 8.10 Lambda runtime. Lambda functions that use Node.js
 
 ## 1.3.1 Updates[¶](#1.3.1updates "Permalink to this headline")
 
-Improved log level granularity.
+Granularidade de nível de log aprimorada.
 
 </div>
 
