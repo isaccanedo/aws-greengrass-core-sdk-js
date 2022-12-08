@@ -50,7 +50,7 @@ Sua operação _console.log_ será registrada como INFO. Uma operação _console
 
 A partir da versão 1.5 do GGC, você pode enviar dados JSON e binários como carga útil ao invocar outros Lambdas ou publicar uma mensagem usando o serviço IoTData. Para fazer com que seu lambda seja capaz de lidar com carga binária, você precisa configurar o lambda no console do Greengrass para marcá-lo usando carga útil de entrada binária para que o GGC saiba como lidar com os dados.
 
-## Supported Context
+## Contexto suportado
 
 In Greengrass, you can send a context object in a JSON format to be passed to another Lambda that is being invoked. The context format looks like this: `{ custom: { customData: 'customData', }, }`
 
