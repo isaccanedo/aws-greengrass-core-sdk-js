@@ -134,7 +134,7 @@ O gerenciador de fluxo oferece suporte à exportação automática de dados para
 Added support for StreamManager, see [AWS Docs](https://docs.aws.amazon.com/greengrass/latest/developerguide/stream-manager.html)
 for more information.
 
-### Compatibility
+### Compatibilidade
 
 StreamManager has adds a new dependency to this package, `cbor==5.0.1`. 
 Please make sure to include it in your lambda or else the SDK will not function.
