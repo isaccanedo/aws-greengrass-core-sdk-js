@@ -141,7 +141,7 @@ Certifique-se de incluí-lo em seu lambda ou o SDK não funcionará.
 Além da nova dependência, a versão 1.6.0 deste SDK agora requer NodeJS versão 12
 ou superior, já que NodeJS 6 e 8 estão em fim de vida. Consulte [https://docs.aws.amazon.com/lambda/latest/dg/runtime-support-policy.html](https://docs.aws.amazon.com/lambda/latest/dg/runtime-support-policy.html).
 
-### StreamManager Usage
+### Uso do StreamManager
 
 ```javascript
 const {
