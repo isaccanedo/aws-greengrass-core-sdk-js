@@ -56,7 +56,7 @@ No Greengrass, você pode enviar um objeto de contexto em formato JSON para ser 
 
 <div class="section" id="compatibility">
 
-## Compatibility[¶](#compatibility "Permalink to this headline")
+## Compatibilidade[¶](#compatibilidade "Link permanente para este título")
 
 As new features are added to AWS IoT Greengrass, newer versions of the AWS IoT Greengrass SDK may be incompatible with older versions of the AWS IoT Greengrass core. The following table lists the compatible SDKs for all GGC releases.
 
