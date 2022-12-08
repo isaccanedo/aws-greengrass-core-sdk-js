@@ -191,7 +191,7 @@ Granularidade de nível de log aprimorada.
 
 ## 1.3.0 Updates[¶](#1.3.0updates "Permalink to this headline")
 
-SDK supports SecretsManager client.
+O SDK oferece suporte ao cliente SecretsManager.
 
 </div>
 
