@@ -121,7 +121,7 @@ No Greengrass, você pode enviar um objeto de contexto em formato JSON para ser 
 
 <div class="Section" id="1.7.0updates">
 
-## 1.7.0 Updates[¶](#1.7.0updates "Permalink to this headline")
+## 1.7.0 Atualizações[¶](#1.7.0updates "Permalink to this headline")
 
 O gerenciador de fluxo oferece suporte à exportação automática de dados para AWS S3 e AWS IoT SiteWise, fornece novo método de API para atualizar fluxos existentes e pausar ou retomar a exportação.
    
