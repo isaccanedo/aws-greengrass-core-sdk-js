@@ -221,7 +221,7 @@ Lambda Invoke function's InvocationType's default value was Event. This has been
 
 </div>
 
-## Getting Help
+## Obtendo ajuda
 
 *   [Ask on a Greengrass forum](https://forums.aws.amazon.com/forum.jspa?forumID=254)
 
