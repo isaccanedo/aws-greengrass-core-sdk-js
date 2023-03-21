@@ -129,7 +129,7 @@ O gerenciador de fluxo oferece suporte à exportação automática de dados para
 
 <div class="Section" id="1.6.0updates">
 
-## 1.6.0 Updates[¶](#1.6.0updates "Permalink to this headline")
+## 1.6.0 Atualizações[¶](#1.6.0updates "Permalink to this headline")
 
 Adicionado suporte para StreamManager, consulte [AWS Docs](https://docs.aws.amazon.com/greengrass/latest/developerguide/stream-manager.html)
 Para maiores informações.
