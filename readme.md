@@ -165,7 +165,7 @@ const c = new StreamManagerClient({
 
 <div class="Section" id="1.5.0updates">
 
-## 1.5.0 Updates[¶](#1.5.0updates "Permalink to this headline")
+## 1.5.0 Atualizações[¶](#1.5.0updates "Permalink to this headline")
 
 Adicionado suporte para o parâmetro publish() queueFullPolicy, que pode ser definido como 'AllOrError' para garantir que a mensagem publicada seja entregue a todos os destinos de assinatura ou a nenhum destino e retorne um erro quando a fila de trabalho interna do Greengrass Core estiver cheia.
 
