@@ -217,7 +217,7 @@ Lambda only accepted payload in JSON format. With this update, Invoking or publi
 
 As operações de sombra não estavam recebendo respostas da sombra local corretamente. Isso foi corrigido.
 
-Lambda Invoke function's InvocationType's default value was Event. This has been changed to RequestResponse.
+O valor padrão de InvocationType da função Lambda Invoke era Event. Isso foi alterado para RequestResponse.
 
 </div>
 
