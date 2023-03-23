@@ -223,7 +223,7 @@ O valor padrão de InvocationType da função Lambda Invoke era Event. Isso foi 
 
 ## Obtendo ajuda
 
-*   [Ask on a Greengrass forum](https://forums.aws.amazon.com/forum.jspa?forumID=254)
+*   [Pergunte em um fórum Greengrass](https://forums.aws.amazon.com/forum.jspa?forumID=254)
 
 ## License
 
