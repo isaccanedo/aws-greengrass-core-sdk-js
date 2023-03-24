@@ -213,7 +213,7 @@ Lambda only accepted payload in JSON format. With this update, Invoking or publi
 
 <div class="Section" id="1.0.1updates">
 
-## 1.0.1 Updates[¶](#1.0.1updates "Permalink to this headline")
+## 1.0.1 Atualizações[¶](#1.0.1updates "Permalink to this headline")
 
 As operações de sombra não estavam recebendo respostas da sombra local corretamente. Isso foi corrigido.
 
