@@ -173,7 +173,7 @@ Adicionado suporte para o parâmetro publish() queueFullPolicy, que pode ser def
 
 <div class="Section" id="1.4.0updates">
 
-## 1.4.0 Updates[¶](#1.4.0updates "Permalink to this headline")
+## 1.4.0 Atualizações[¶](#1.4.0updates "Permalink to this headline")
 
 Adicionado suporte para Node.js 8.10 Lambda runtime. As funções do Lambda que usam o tempo de execução do Node.js 8.10 agora podem ser executadas em um núcleo do AWS IoT Greengrass. (As funções existentes do Lambda que usam o tempo de execução do Node.js 6.10 ainda podem ser executadas no núcleo do Greengrass, mas não podem ser atualizadas após 30/05/2019. Consulte a [Política de suporte do AWS Lambda Runtimes](https://docs.aws.amazon.com/lambda/latest/dg/runtime-support-policy.html).)
 
