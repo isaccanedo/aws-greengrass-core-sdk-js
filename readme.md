@@ -181,7 +181,7 @@ Adicionado suporte para Node.js 8.10 Lambda runtime. As funções do Lambda que 
 
 <div class="Section" id="1.3.1updates">
 
-## 1.3.1 Updates[¶](#1.3.1updates "Permalink to this headline")
+## 1.3.1 Atualizações[¶](#1.3.1updates "Permalink to this headline")
 
 Granularidade de nível de log aprimorada.
 
