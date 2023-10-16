@@ -225,6 +225,6 @@ O valor padrão de InvocationType da função Lambda Invoke era Event. Isso foi 
 
 *   [Pergunte em um fórum Greengrass](https://forums.aws.amazon.com/forum.jspa?forumID=254)
 
-## License
+## Licença
 
 Apache 2.0
